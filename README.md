@@ -11,7 +11,7 @@ This project is a simple 3D CAD model of a **Robot Head** designed for engineeri
 - A4 technical drawing layout
 - Simple geometric features for CAD practice
 
-## 🛠 Software Used
+##  Software Used
 
 - Onshape
 
