@@ -36,7 +36,8 @@ This project is a simple 3D CAD model of a **Robot Head** designed for engineeri
 
 ### 3D Model
 
-<img width="419" height="314" alt="Robot Head 3D Model" src="https://github.com/user-attachments/assets/e7d38de6-c4d7-452f-b637-b2eebe538076" />
+<img width="707" height="440" alt="image" src="https://github.com/user-attachments/assets/a1e28a4a-0852-4146-a1c2-61a692c327e5" />
+<img width="704" height="419" alt="image" src="https://github.com/user-attachments/assets/1e39e705-b2f4-4b0f-a4e9-0bfaee6d47db" />
 
 ### Engineering Drawing
 
