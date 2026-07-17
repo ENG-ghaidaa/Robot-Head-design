@@ -15,7 +15,7 @@ This project is a simple 3D CAD model of a **Robot Head** designed for engineeri
 
 - Onshape
 
-## 📐 Dimensions
+##  Dimensions
 
 | Feature | Size |
 |---------|------|
@@ -32,7 +32,6 @@ This project is a simple 3D CAD model of a **Robot Head** designed for engineeri
 - `Robot_Head_Drawing.pdf`
 - `README.md`
 
-## 🖼 Preview
 
 ### 3D Model
 
